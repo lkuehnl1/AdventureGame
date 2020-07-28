@@ -1,0 +1,10 @@
+Your blurred vision begins to focus and you realize you have become concious of your surroundings. This is not a dream. Looking down you confirm that you are sitting in 
+large chair, similar to a dentists chair. Your wrists are bound to the armrests of the chair and your feet are bound. The room you are in is dark with only a single dim 
+light hanging from the cobweb-laden ceiling. To your right is a small table with a rusted metal tray on it. The tray contains a selection of surgical implements. 
+The Tray is close enough that you may be able to grab one of the knives with your teeth. Do you attempt escape or call for help?
+
+call for help: You attempt to call out for help, but the result is more of a weak and horse whine. You prepare to make a more robust attempt until a hand covers your mouth firmly.
+Someone is standing behind your chair.
+
+escape: With great effort you bend your body laterally as far as you can, the pain coursing through your body is enormous. "What have they done to me" you think.
+you ma

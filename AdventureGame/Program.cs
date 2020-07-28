@@ -1,8 +1,18 @@
-﻿using System;
+﻿/*
+ * [Bad Ass Game]
+ * by Laurent Kuehnl, 7/26/2020
+ *  
+ * This work is a derivative of 
+ * "C# Adventure Game" by http://programmingisfun.com, used under CC BY.
+ * https://creativecommons.org/licenses/by/4.0/
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AdventureGameLibrary;
+
 
 namespace AdventureGame
 {
@@ -10,17 +20,13 @@ namespace AdventureGame
     {
         static void Main(string[] args)
         {
-           
-            Console.WriteLine("Encounter with Destiny!");
-            Console.WriteLine("This will be an amazing adventure " +
-                "that will \nchallenge you to the core of your being");
-            Console.WriteLine("Please enter your name");
-            string CharacterName = Console.ReadLine();
-            
-            Console.WriteLine("Your name is " + CharacterName.ToUpper() + ". Phenomenal!");
-            Console.ReadKey();
-
-           
+            Game.StartGame();
+            Console.Read();
         }
+
     }
 }
+
+           
+
+        
